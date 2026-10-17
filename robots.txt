@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prashantdeol03.github.io/Prashant-Deol/sitemap.xml
