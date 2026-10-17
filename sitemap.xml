@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://prashantdeol03.github.io/Prashant-Deol/</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/againnew.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/xtracover.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/sellncash.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/xcb2b.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/xcqc.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/grest.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/rnew.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/anom.webp</image:loc></image:image>
+    <image:image><image:loc>https://prashantdeol03.github.io/Prashant-Deol/img/projects/shopper360.webp</image:loc></image:image>
   </url>
 </urlset>
